@@ -49,6 +49,8 @@ The Odin Project depends on open-source contributions to improve, grow, and thri
 -   [Tatiana Walton](https://github.com/twalton83)
 -   [Valera Kushnir](https://github.com/kashura)
 
+-   Just some new awesome stuff
+
 ---
 
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
